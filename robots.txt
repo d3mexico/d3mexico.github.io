@@ -1,0 +1,4 @@
+Sitemap: http://www.d3mexico.org/sitemapindex.xml
+
+User-Agent: *
+Host: www.d3mexico.org
