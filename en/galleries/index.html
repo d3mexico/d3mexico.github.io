@@ -67,6 +67,22 @@
 </ul></nav><h1>galleries</h1>
 
 <div id="gallery_container"></div>
+<noscript>
+<ul class="thumbnails">
+<li>
+<a href="../../galleries/Cover.png" class="thumbnail image-reference" title="Cover">
+            <img src="../../galleries/Cover.thumbnail.png" alt="Cover"></a>
+        </li>
+<li>
+<a href="../../galleries/Logo_UIBCDF.png" class="thumbnail image-reference" title="Logo uibcdf">
+            <img src="../../galleries/Logo_UIBCDF.thumbnail.png" alt="Logo uibcdf"></a>
+        </li>
+<li>
+<a href="../../galleries/Logo_HIMFG.jpg" class="thumbnail image-reference" title="Logo himfg">
+            <img src="../../galleries/Logo_HIMFG.thumbnail.jpg" alt="Logo himfg"></a>
+</li>
+</ul>
+</noscript>
 
         </div>
         <!--End of body content-->
@@ -83,7 +99,7 @@
     moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script src="../../assets/js/flowr.plugin.js"></script><script>
-jsonContent = [];
+jsonContent = [{"size": {"h": 296, "w": 720}, "title": "Cover", "url": "../../galleries/Cover.png", "url_thumb": "../../galleries/Cover.thumbnail.png"}, {"size": {"h": 160, "w": 720}, "title": "Logo uibcdf", "url": "../../galleries/Logo_UIBCDF.png", "url_thumb": "../../galleries/Logo_UIBCDF.thumbnail.png"}, {"size": {"h": 180, "w": 137}, "title": "Logo himfg", "url": "../../galleries/Logo_HIMFG.jpg", "url_thumb": "../../galleries/Logo_HIMFG.thumbnail.jpg"}];
 $("#gallery_container").flowr({
         data : jsonContent,
         height : 180*.6,
