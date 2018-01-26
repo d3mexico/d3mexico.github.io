@@ -7,58 +7,54 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.d3mexico.org/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/2018/</loc>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/archive.html</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
+  <lastmod>2018-01-26T06:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/blog/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/blog/workshop-directo-streaming/</loc>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/categories/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/como_llegar/</loc>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/contacto/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.d3mexico.org/en/archive.html</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.d3mexico.org/en/blog/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.d3mexico.org/en/categories/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.d3mexico.org/en/galleries/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/galleries/</loc>
-  <lastmod>2018-01-20T02:25:00Z</lastmod>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/invitados/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/objetivos/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/programa/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/registro/</loc>
-  <lastmod>2018-01-20T01:36:00Z</lastmod>
+  <lastmod>2018-01-26T05:58:00Z</lastmod>
  </url>
 </urlset>
