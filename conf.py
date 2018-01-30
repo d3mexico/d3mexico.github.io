@@ -26,8 +26,9 @@ SITE_URL = "http://www.d3mexico.org/"
 # If not set, defaults to SITE_URL
 BASE_URL = "http://www.d3mexico.org/"
 BLOG_EMAIL = "d3mexico_workshop@gmail.com"
-BLOG_DESCRIPTION = {"en": "Drug Design and Discovery Mexico",
-                    "es": "Drug Design and Discovery México"} # (translatable)
+# BLOG_DESCRIPTION = {"en": "Drug Design and Discovery Mexico",
+                    # "es": "Drug Design and Discovery México"} # (translatable)
+BLOG_DESCRIPTION = {"es": "Drug Design and Discovery México"} # (translatable)
 
 # Nikola is multilingual!
 #
@@ -92,10 +93,15 @@ DEFAULT_LANG = "es"
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
-TRANSLATIONS = {
-    DEFAULT_LANG: "",
-    "en": "./en",
-}
+# TRANSLATIONS = {
+    # DEFAULT_LANG: "",
+    # "en": "./en",
+# }
+
+# TRANSLATIONS = {
+    # DEFAULT_LANG: "es",
+# }
+
 
 # What will translated input files be named like?
 
@@ -139,13 +145,14 @@ NAVIGATION_LINKS = {
         ("/programa/", "Programa"),
         ("/registro/", "Registro"),
         ("/blog/", "Blog"),
+        ("/como_llegar/", "Cómo llegar"),
         ("/contacto/", "Contacto"),
         # ("/archive.html", "Archive"),
         # ("/categories/", "Tags"),
         # ("/rss.xml", "RSS feed"),
     ),
 
-    "en": (
+    # "en": (
         # ("/en/about/", "Acerca"),
         # ("/en/members/", "Miembros"),
         # ("/en/research/", "Investigación"),
@@ -157,7 +164,7 @@ NAVIGATION_LINKS = {
         # ("/en/contact/", "Contacto"),
         # ("/es/categories/", "Etiquetas"),
         # ("/es/rss.xml", "Canal RSS"),
-    ),
+    # ),
 }
 
 # Name of the theme to use.
