@@ -1,0 +1,64 @@
+<!--
+     .. title: Cómo llegar
+     .. slug: como_llegar
+     .. date: 2018-01-19 19:19:17 UTC-06:00
+     .. tags: 
+     .. category: 
+     .. link: 
+     .. description: 
+     .. type:
+     .. hidetitle: True 
+-->
+
+
+<center>
+
+<h2> Indicaciones para llegar mediante transporte público </h2>
+
+    <p>Estaciones de metro Hospital General (Línea 3) o Centro Médico (Líneas 3 y 9)</p>
+    <p>Estación de metro-bus Dr. Márquez (Línea 3)</p>
+
+<h2> Acceso al Hospital Infantil de México Federico Gómez <h2>
+
+    <p>El acceso para todo asistente registrado se hará mediante la Puerta 4 ubicada sobre la Calle Dr Márquez (pin rojo sobre el mapa).</p>
+
+<h2> Ubicación del salón </h2>
+
+    <p>Todas las sesiones se llevarán a cabo en los anexos A y B del edificio de enseñanza.</p>
+
+<script>
+ function myMap() {
+
+     var p4_himfg = {lat: 19.411207, lng: -99.151012};
+     var mapOptions = {
+         center: p4_himfg,
+         zoom: 16,
+         mapTypeId: google.maps.MapTypeId.ROADMAP
+     }
+     var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+     var marker = new google.maps.Marker({
+         position: p4_himfg,
+         map: map
+     });
+ }
+</script>
+
+
+<div class="panel-body" style="height: 660px;">
+<center>
+    <div class="panel panel-default" style="height: 660px;">
+            <div class="panel-body">
+                <center>
+                    <div id="map" style="width:100%;height:650px"></div>
+                    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMa0obIVADVD2R9fZgVhI3H5fp2MztoJc&callback=myMap"></script>
+                </center>
+            </div>
+        </div>
+</center>
+</div>
+
+
+<hr />
+
+
+
