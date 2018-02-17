@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.d3mexico.org/</loc>
-  <lastmod>2018-02-14T21:57:00Z</lastmod>
+  <lastmod>2018-02-16T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/2018/</loc>
@@ -51,11 +51,31 @@
  </url>
  <url>
   <loc>http://www.d3mexico.org/invitados/</loc>
-  <lastmod>2018-02-14T21:57:00Z</lastmod>
+  <lastmod>2018-02-17T03:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/invitados/charbel-maroun/</loc>
+  <lastmod>2018-02-16T18:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/invitados/martinez-mayorga/</loc>
+  <lastmod>2018-02-17T03:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/invitados/medina-franco/</loc>
   <lastmod>2018-02-14T21:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/invitados/senoiain-pelaez/</loc>
+  <lastmod>2018-02-16T17:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/invitados/senosiain-pelaez/</loc>
+  <lastmod>2018-02-16T17:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/invitados/sesoiain-pelaez/</loc>
+  <lastmod>2018-02-16T17:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/objetivos/</loc>
@@ -63,7 +83,11 @@
  </url>
  <url>
   <loc>http://www.d3mexico.org/programa/</loc>
-  <lastmod>2018-02-14T21:57:00Z</lastmod>
+  <lastmod>2018-02-16T21:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/programa/charbel-maroun/</loc>
+  <lastmod>2018-02-16T21:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/registro/</loc>
