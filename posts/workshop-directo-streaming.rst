@@ -7,11 +7,12 @@
 .. description: 
 .. type: text
 
-Gracias al soporte dado por el servicio CEMESATEL del Hospital Infantil de
+Gracias al soporte dado por el servicio CEMESATEL_ del Hospital Infantil de
 México Federico Gómez el workshop en su totalidad se podrá seguir en linea de
-manera gratuita. El apoyo de CEMESATEL posibilita que este evento pueda tener
+manera gratuita. El apoyo de CEMESATEL_ posibilita que este evento pueda tener
 una mayor difusión contribuyendo a que la ciencia esté al alcance de todos.
 
 Las instrucciones para seguir las conferencias y
 coloquios desde tu computadora se publicarán próximamente en este mismo medio.
 
+.. _CEMESATEL: http://www.cemesatel.tv/
