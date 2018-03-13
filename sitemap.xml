@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.d3mexico.org/</loc>
-  <lastmod>2018-02-25T02:33:00Z</lastmod>
+  <lastmod>2018-03-13T03:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/2018/</loc>
@@ -44,6 +44,14 @@
  <url>
   <loc>http://www.d3mexico.org/contacto2/</loc>
   <lastmod>2018-02-25T02:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/cuestionario_empresas/</loc>
+  <lastmod>2018-03-13T03:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.d3mexico.org/cuestionario_investigadores/</loc>
+  <lastmod>2018-03-13T03:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.d3mexico.org/galleries/</loc>
